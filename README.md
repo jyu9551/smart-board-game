@@ -7,4 +7,4 @@
 <img src="https://github.com/user-attachments/assets/a2d034c6-f529-413b-9133-69bed681ff65">
 
 # 시연영상
-
+<img src="https://github.com/user-attachments/assets/df14d8fb-b6b7-4d5f-bda7-81857975d8c6">
