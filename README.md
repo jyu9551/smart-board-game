@@ -15,4 +15,4 @@ Yolov5 객체인식 딥러닝 모델로 실시간으로 주사위 값을 인식�
 
 
 # 시연영상
-<img src="https://github.com/user-attachments/assets/df14d8fb-b6b7-4d5f-bda7-81857975d8c6">
+<img src="https://github.com/user-attachments/assets/202e0df7-ace1-48e7-9d9e-dedc2d1f1fa6">
