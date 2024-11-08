@@ -9,7 +9,10 @@
 <br/>
 
 # 프로젝트 소개
-<img src="https://github.com/user-attachments/assets/a2d034c6-f529-413b-9133-69bed681ff65">
+캡스턴디자인 프로젝트로 아날로그 보드게임의 참여감과 디지털 보드게임의 편리성을 결합<br>
+Yolov5 객체인식 딥러닝 모델로 실시간으로 주사위 값을 인식해 데스크톱 상의 보드게임을 진행 <br><br>
+<img src="https://github.com/user-attachments/assets/a2d034c6-f529-413b-9133-69bed681ff65"> <br><br>
+
 
 # 시연영상
 <img src="https://github.com/user-attachments/assets/df14d8fb-b6b7-4d5f-bda7-81857975d8c6">
